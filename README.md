@@ -8,6 +8,8 @@ I build connected products, from responsive interfaces to the services behind th
 
 - **[Cryptofolio](https://github.com/ah2909/cryptofolio)** — A multi-exchange crypto workspace combining portfolio tracking, live market data, AI insights, and Telegram alerts.
 - **E-Commerce** — A multi-store commerce platform connecting branded storefronts with inventory, transactional checkout, payments, and order management.
+  + [Front-end](https://github.com/ah2909/e-commerce-ui)
+  + [Back-end](https://github.com/ah2909/e-commerce)
 
 **Stack:** Laravel · Go · Node.js · Next.js · TypeScript · Python · PostgreSQL · Redis  
 **Delivery:** AWS · Docker · GitHub Actions
