@@ -1,16 +1,13 @@
-## Hi there 👋
+# Cao Anh Huân
 
-<!--
-**ah2909/ah2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Developer · Backend & Real-time Systems**
 
-Here are some ideas to get you started:
+I build connected products, from responsive interfaces to the services behind them. With 2+ years of experience, I work across backend development, real-time systems, and cloud deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+
+- **[Cryptofolio](https://github.com/ah2909/cryptofolio)** — A multi-exchange crypto workspace combining portfolio tracking, live market data, AI insights, and Telegram alerts.
+- **E-Commerce** — A multi-store commerce platform connecting branded storefronts with inventory, transactional checkout, payments, and order management.
+
+**Stack:** Laravel · Go · Node.js · Next.js · TypeScript · Python · PostgreSQL · Redis  
+**Delivery:** AWS · Docker · GitHub Actions
